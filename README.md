@@ -1,2 +1,2 @@
-# https://harishini.github.io/one
+# https://harishini.github.io
 hello world
